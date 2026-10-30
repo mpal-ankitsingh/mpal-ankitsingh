@@ -91,16 +91,7 @@ pie
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mpal-ankitsingh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
-  <img height="170" src="https://streak-stats.demolab.com?user=mpal-ankitsingh&hide_border=true&theme=tokyonight&background=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mpal-ankitsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mpal-ankitsingh&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" />
+  <img src="https://streak-stats.demolab.com?user=mpal-ankitsingh&hide_border=true&theme=tokyonight&background=00000000" />
 </p>
 
 <p align="center">
